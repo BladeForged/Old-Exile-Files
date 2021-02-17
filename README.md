@@ -1,4 +1,4 @@
-# Old-Exile-Files
+# Old-Exile-Files (Public Release)
 My files from an old exile server i never fully finished feel free to use them as a learning tool or as a framework to get you server started the map is currently set to esseker using the Esseker Fixed mod.
 |
 I have also included the 3DEN plugin for exile so you can edit the traders and such easier.
